@@ -10,7 +10,7 @@ assign {
 display: flex;
 padding: 10;
 margin: 10;
-background: black;
+background: white;
 }
 assign img {
 width: 200;
