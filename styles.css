@@ -8,12 +8,12 @@ text-align: center;
 }
 assign {
 display: flex;
-padding: 10;
-margin: 10;
+padding: 10px;
+margin: 10px;
 background: white;
 }
 assign img {
-width: 200;
-padding: 10;
+width: 200px;
+padding: 10px;
 }
 
