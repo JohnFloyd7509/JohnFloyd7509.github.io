@@ -10,6 +10,10 @@ assign {
 display: flex;
 padding: 10;
 margin: 10;
-background: [pick a color];
+background: black;
+}
+assign img {
+width: 200;
+padding: 10;
 }
 
