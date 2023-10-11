@@ -3,14 +3,14 @@ background: red;
 font-family: Arial;
 }
 h1 {
-color: grey;
+color: black;
 text-align: center;
 }
 assign {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: white;
+background: grey;
 }
 assign img {
 width: 200px;
