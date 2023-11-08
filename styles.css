@@ -16,4 +16,9 @@ background: maroon;
 width: 200px;
 padding: 10px;
 }
+a {
+ text-decoration: none; 
+ color: white;
+}
+
 
