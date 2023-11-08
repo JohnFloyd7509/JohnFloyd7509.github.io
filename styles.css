@@ -6,6 +6,9 @@ h1 {
 color: white;
 text-align: center;
 }
+h2 {
+color: white;
+}
 .assign {
 display: flex;
 padding: 10px;
@@ -16,6 +19,7 @@ background: maroon;
 width: 200px;
 padding: 10px;
 border: 1px solid black;
+margin: 1px;
 }
 a {
  text-decoration: none; 
