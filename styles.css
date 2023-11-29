@@ -8,13 +8,10 @@ h1 {
 color: white;
 text-align: center;
 }
-h1:hover {
- color: red;
+h2:hover {
+ color: grey;
  width: 100%;
  display: block;
-}
-h2 {
-color: white;
 }
 .assign {
 background: maroon;
